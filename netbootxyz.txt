@@ -1,0 +1,11 @@
+releases.ubuntu.com
+archive.ubuntu.com
+http.kali.org
+repo.almalinux.org
+dl-cdn.alpinelinux.org
+mirror.centos.org
+deb.debian.org
+deb.devuan.org
+mirrors.kernel.org
+ftp.openbsd.org
+download.rockylinux.org
