@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+        {
+			"name": "netbootxyz",
+			"description": "CDN for OS downloads",
+			"domain_files": ["netbootxyz.txt"]
 		}
 	]
 }
